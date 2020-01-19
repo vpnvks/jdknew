@@ -1,0 +1,3 @@
+set projectLocation =C:\Users\VipinMishra\e-workspace\trail-of-jdk
+cd %projectLocation%
+set classpath=%projectLocation%\bin
